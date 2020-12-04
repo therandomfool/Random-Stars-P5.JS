@@ -3,8 +3,8 @@ let y = 200;
 let extraCanvas;
 
 function setup() {
-  createCanvas(400, 400);
-  extraCanvas = createGraphics(400, 400);
+  createCanvas(900, 900);
+  extraCanvas = createGraphics(900, 900);
   extraCanvas.clear();
   background(0);
 }
